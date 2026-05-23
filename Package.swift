@@ -32,8 +32,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "GenieeMediationVungle",
-            url: "https://github.com/unigeniee/geniee-ios-mediation-vungle/releases/download/8.3.100/GenieeMediationVungle.8.3.1.0.zip",
-            checksum: "07d783a2cd2e5016a81f0f019011bdbaa504b973291ef8ae3c854442e0c21c12"
+            url: "https://github.com/unigeniee/geniee-ios-mediation-vungle/releases/download/7.7.300/GenieeMediationVungle.7.7.3.0.zip",
+            checksum: "6f97212861c13178ca9ceab9f279dcdf2aca089e5b6bdd66491baa403ae0dcf2"
         )
     ]
 )
