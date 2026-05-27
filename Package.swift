@@ -12,7 +12,7 @@ let package = Package(
     ],
     dependencies: [
         .package(
-            url: "https://github.com/unigeniee/swift-package-manager-geniee-ios-sdk.git",
+            url: "https://github.com/geniee-ssp/swift-package-manager-geniee-ios-sdk.git",
             from: "8.4.3"
         ),
         .package(
@@ -32,7 +32,7 @@ let package = Package(
         ),
         .binaryTarget(
             name: "GenieeMediationVungle",
-            url: "https://github.com/unigeniee/geniee-ios-mediation-vungle/releases/download/7.7.300/GenieeMediationVungle.7.7.3.0.zip",
+            url: "https://github.com/geniee-ssp/geniee-ios-mediation-vungle/releases/download/7.7.300/GenieeMediationVungle.7.7.3.0.zip",
             checksum: "6f97212861c13178ca9ceab9f279dcdf2aca089e5b6bdd66491baa403ae0dcf2"
         )
     ]
